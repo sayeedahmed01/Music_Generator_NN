@@ -22,7 +22,7 @@ This project is centered on the exploration of deep learning techniques for musi
 2. Ensure Python 3.7+ is installed.
 3. Install the necessary Python packages:
    ```bash
-   pip install tensorflow keras music21 numpy
+   pip install tensorflow keras music21 numpy matplotlib
 
 ## Customizing Music Data
 
