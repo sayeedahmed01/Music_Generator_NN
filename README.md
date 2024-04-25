@@ -1,6 +1,5 @@
 # Music Generator Project
 
-## Introduction
 This project is centered on the exploration of deep learning techniques for music generation. Using Long Short-Term Memory (LSTM) networks, the project demonstrates how machine learning can be applied to create music autonomously by learning patterns from a dataset of MIDI files.
 
 ## Technical Details
