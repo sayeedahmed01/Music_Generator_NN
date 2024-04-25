@@ -4,6 +4,7 @@ This project is centered on the exploration of deep learning techniques for musi
 
 ## Technical Details
 - **Neural Network Architecture:** The model uses LSTM layers which are highly effective for sequence prediction problems. This architecture helps in learning dependencies and patterns in musical notes.
+![architecture diagram](Code/Resources/model_architecture.png)
 - **Data Processing:** The musical data is first converted from MIDI files to a format suitable for the neural network, extracting sequences of notes and their timings.
 - **Training:** The LSTM network is trained on these sequences, learning to predict the next note in a sequence based on the previous notes.
 - **Music Generation:** After training, the model attempts to generate new music sequences starting from a seed sequence derived from the data set.
